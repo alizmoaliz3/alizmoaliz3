@@ -26,5 +26,5 @@ n8n · JavaScript/TypeScript · Next.js · Electron · Docker · REST APIs · We
 ## Contact
 
 - Portfolio: [abdul-ali.vercel.app](https://abdul-ali.vercel.app)
-- LinkedIn: [Abdul Ali](https://www.linkedin.com/in/abdul-ali-bin-salman-67a858368)
+- LinkedIn: [Abdul Ali](https://www.linkedin.com/in/abdulalisalman)
 - Email: [abdulalisalman05@gmail.com](mailto:abdulalisalman05@gmail.com)
